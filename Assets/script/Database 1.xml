@@ -1,0 +1,50 @@
+<root>
+<Item>
+	<name>Chips</name>
+	<type>appetizer</type>
+	<description>Classic potato chips served with fresh natural aioli</description>
+	<price>4.50</price>
+</Item>
+
+<Item>
+	<name>Chicken Nuggets</name>
+	<type>appetizer</type>
+	<description>6 Crumbed and deep fried Chicken Nuggets, served with your choice of dip.</description>
+	<price>6.50</price>
+</Item>
+
+<Item>
+	<name>Meatlovers Pizza</name>
+	<type>main</type>
+	<description>Ground beef, rasher bacon,  champagne ham, pepperoni, red onion and mozzarella topped with BBQ sauce</description>
+	<price>12.90</price>
+</Item>
+
+<Item>
+	<name>Quarter Pounder</name>
+	<type>main</type>
+	<description>100% pure NZ grass fed beef, melted cheddar, bread and butter pickles, dijon mustard, relish, aioli</description>
+	<price>10.50</price>
+</Item>
+
+<Item>
+	<name>Hamburger</name>
+	<type>main</type>
+	<description>New Zealand beef, melted cheddar, bread and butter pickles, tomato sauce and aioli on a smaller bun</description>
+	<price>8.50</price>
+</Item>
+
+<Item>
+	<name>Coke</name>
+	<type>drink</type>
+	<description>A 300ml glass of coke serves with ice.</description>
+	<price>3.50</price>
+</Item>
+
+<Item>
+	<name>Bavarian</name>
+	<type>dessert</type>
+	<description>Rich creamy chocolate bavarian served cold with a hot fudge sauce.</description>
+	<price>6.50</price>
+</Item>
+</root>
